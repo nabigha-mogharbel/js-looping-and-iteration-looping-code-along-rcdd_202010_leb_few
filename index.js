@@ -14,5 +14,4 @@ function writeCards(n, y){
   }
   return sentence;
 }
-
 writeCards(["Lise", "Kaitlin", "Jan"], "birthday");
